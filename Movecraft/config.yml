@@ -4,8 +4,8 @@ SinkRateTicks: 20
 SinkCheckTicks: 100
 TracerRateTicks: 5
 PilotTool: 280
-WorldGuardBlockMoveOnBuildPerm: true
-WorldGuardBlockSinkOnPVPPerm: true
+WorldGuardBlockMoveOnBuildPerm: false
+WorldGuardBlockSinkOnPVPPerm: false
 ManOverBoardTimeout: 30
 FireballLifespan: 6
 FireballPenetration: true
@@ -14,8 +14,8 @@ RequireCreatePerm: false
 TNTContactExplosives: true
 DisableCrates: false
 FadeWrecksAfter: 0
-RepairTicksPerBlock: 10
-RepairMoneyPerBlock: 10
+RepairTicksPerBlock: 2
+RepairMoneyPerBlock: 5
 BlockQueueChunkSize: 1000
 AllowCrewSigns: true
 WGCustomFlagsUsePilotFlag: false
